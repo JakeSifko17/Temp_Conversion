@@ -1,2 +1,2 @@
 # Temp_Conversion
-A quick PHP code that creates a chart of Fahrenheit to Celsius 
+A very simple PHP code that creates a chart of Fahrenheit to Celsius conversions
